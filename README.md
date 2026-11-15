@@ -68,5 +68,3 @@ Currently under development.
 👩‍💻 Developer
 
 Alaa Eihab Abd El Wahab
-
-"GitHub Repository" (https://github.com/alasehap945-afk/MedVision)
